@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Newtonsoft.Json;
-using FirebaseAdmin;
-using Google.Apis.Auth.OAuth2;
-using Google.Cloud.Firestore;
-using System.Collections.Generic;
 using Npgsql;
 using BCrypt.Net;
 

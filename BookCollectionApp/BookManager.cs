@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data;
 using System.IO;
 using Npgsql;
-using Newtonsoft.Json;
-using Aspose.Pdf;
-using Aspose.Words;
 using System.Linq;
 using System.Windows.Forms;
 
